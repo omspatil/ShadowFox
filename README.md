@@ -51,15 +51,9 @@ I created an interactive Hangman game using Python, HTML, and CSS. The game feat
     ```bash
     python web_scraper.py
     ```
-- To play the Hangman game, open `index.html` in a web browser.
+- To play the Hangman game, navigate to the hangman directory and execute the Python script:
+    ```bash
+    python app.py
+    ```
 
-## Contact Information
-For any queries or further information, feel free to reach out to me:
-- **Name:** Om Suhas Patil
-- **Email:** your-email@example.com
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- **GitHub:** [Your GitHub Profile](https://github.com/your-username)
-
----
-
-This repository showcases my journey and the skills I acquired during my internship at ShadowFox. I am eager to apply these skills to future projects and continue learning and growing in the field of Python development.
+### This repository showcases my journey and the skills I acquired during my internship at ShadowFox. I am eager to apply these skills to future projects and continue learning and growing in the field of Python development.
