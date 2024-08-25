@@ -11,7 +11,7 @@ This repository contains all the tasks and projects I completed during my Python
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contact Information](#contact-information)
+- [License](#license)
 
 ## About the Internship
 As a Python Development Intern at ShadowFox, I worked on multiple projects that honed my skills in Python programming, web scraping, data analysis, and interactive game development. I also practiced data extraction on various websites and completed several intermediate-level tasks, including comprehensive data analysis using Python libraries.
@@ -67,5 +67,8 @@ I conducted exploratory data analysis (EDA) on a Diwali sales dataset using Pyth
     ```bash
     jupyter notebook diwali_sales_analysis.ipynb
     ```
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 This repository showcases my journey and the skills I acquired during my internship at ShadowFox. I am eager to apply these skills to future projects and continue learning and growing in the field of Python development.
